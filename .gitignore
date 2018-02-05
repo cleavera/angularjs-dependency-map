@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Default template
+.idea
+node_modules
+dependency-map-*.tgz
